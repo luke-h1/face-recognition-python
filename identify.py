@@ -66,3 +66,6 @@ del draw
 
 # display image 
 pil_image.show()
+
+# save image
+pil_image.save('identify.jpg')
